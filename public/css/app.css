@@ -8395,3 +8395,11 @@ html {
   color: inherit;
 }
 
+/* User rigister page*/
+
+.register-page img.captcha {
+  margin-bottom: 0px;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
